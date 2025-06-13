@@ -18,15 +18,15 @@ Information extraction from academic publications (typically in PDF format) is a
 
 Tools for extracting information from PDFs. Entries are ordered alphabetically.
 
-- [GROBID](https://github.com/kermitt2/grobid)
 - [Docling](https://docling-project.github.io/docling/)
+- [GROBID](https://github.com/kermitt2/grobid)
 - [Marker](https://github.com/datalab-to/marker)
 - [MegaParse](https://github.com/QuivrHQ/MegaParse)
 
 
 ## Tutorials
 
-Tutorials on extracting information from PDFs. Entries are ordered chronologically.
+Tutorials on extracting information from PDFs. Entries are ordered chronologically from most recent to oldest.
 
 - [Turning PDFs into Research Data](https://berd-nfdi.github.io/turning-pdfs-into-research-data.io/)
 - [Automatizing Data Extraction for Replicability Analysis using Z-Curve](https://github.com/julianquandt/zcurve_autorep)
