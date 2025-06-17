@@ -22,12 +22,14 @@ Tools for extracting information from PDFs. Entries are ordered alphabetically.
 - [GROBID](https://github.com/kermitt2/grobid)
 - [Marker](https://github.com/datalab-to/marker)
 - [MegaParse](https://github.com/QuivrHQ/MegaParse)
+- [papercheck](https://github.com/scienceverse/papercheck/) (`R` package)
 
 
 ## Tutorials
 
 Tutorials on extracting information from PDFs. Entries are ordered chronologically from most recent to oldest.
 
+- [Introducing Papercheck - An Automated Tool to Check for Best Practices in Scientific Articles](https://daniellakens.blogspot.com/2025/06/introducing-papercheck.html)
 - [Turning PDFs into Research Data](https://berd-nfdi.github.io/turning-pdfs-into-research-data.io/)
 - [Automatizing Data Extraction for Replicability Analysis using Z-Curve](https://github.com/julianquandt/zcurve_autorep)
 - [From PDFs to AI-ready structured data: a deep dive](https://explosion.ai/blog/pdfs-nlp-structured-data)
