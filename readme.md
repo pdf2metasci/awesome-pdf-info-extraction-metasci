@@ -22,6 +22,7 @@ Tools for extracting information from PDFs. Entries are ordered alphabetically.
 - [GROBID](https://github.com/kermitt2/grobid)
 - [Marker](https://github.com/datalab-to/marker)
 - [MegaParse](https://github.com/QuivrHQ/MegaParse)
+- [Mistral OCR](https://mistral.ai/news/mistral-ocr)
 - [papercheck](https://github.com/scienceverse/papercheck/) (`R` package)
 - [pdf2md](https://github.com/mrmps/pdf2md)
 
