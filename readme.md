@@ -24,6 +24,7 @@ Tools for extracting information from PDFs. Entries are ordered alphabetically.
 - [Marker](https://github.com/datalab-to/marker)
 - [MegaParse](https://github.com/QuivrHQ/MegaParse)
 - [Mistral OCR](https://mistral.ai/news/mistral-ocr)
+- [Nougat](https://facebookresearch.github.io/nougat/)
 - [papercheck](https://github.com/scienceverse/papercheck/) (`R` package)
 - [pdf2md](https://github.com/mrmps/pdf2md)
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
