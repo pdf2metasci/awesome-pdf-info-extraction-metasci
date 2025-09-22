@@ -19,6 +19,7 @@ Information extraction from academic publications (typically in PDF format) is a
 Tools for extracting information from PDFs. Entries are ordered alphabetically.
 
 - [Docling](https://docling-project.github.io/docling/)
+- [Granite Docling](https://huggingface.co/ibm-granite/granite-docling-258M)
 - [GROBID](https://github.com/kermitt2/grobid)
 - [Marker](https://github.com/datalab-to/marker)
 - [MegaParse](https://github.com/QuivrHQ/MegaParse)
