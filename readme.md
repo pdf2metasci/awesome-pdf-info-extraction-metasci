@@ -22,6 +22,7 @@ Tools for extracting information from PDFs. Entries are ordered alphabetically.
 - [docext by Nanonets](https://github.com/NanoNets/docext)
 - [Docling](https://docling-project.github.io/docling/)
 - [DocStrange by Nanonets](https://docstrange.nanonets.com/)
+- [evidence.guide](https://evidence.guide/) (focus on meta-analysis)
 - [Granite Docling](https://huggingface.co/ibm-granite/granite-docling-258M)
 - [GROBID](https://github.com/kermitt2/grobid)
 - [Marker](https://github.com/datalab-to/marker)
