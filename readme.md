@@ -38,6 +38,7 @@ Tools for extracting information from PDFs. Entries are ordered alphabetically.
 
 Tutorials on extracting information from PDFs. Entries are ordered chronologically from most recent to oldest.
 
+- [Supercharge your OCR Pipelines with Open Models](https://huggingface.co/blog/ocr-open-models)
 - [Introducing Papercheck - An Automated Tool to Check for Best Practices in Scientific Articles](https://daniellakens.blogspot.com/2025/06/introducing-papercheck.html)
 - [Turning PDFs into Research Data](https://berd-nfdi.github.io/turning-pdfs-into-research-data.io/)
 - [Automatizing Data Extraction for Replicability Analysis using Z-Curve](https://github.com/julianquandt/zcurve_autorep)
