@@ -29,6 +29,7 @@ Tools for extracting information from PDFs. Entries are ordered alphabetically.
 - [MegaParse](https://github.com/QuivrHQ/MegaParse)
 - [Mistral OCR](https://mistral.ai/news/mistral-ocr)
 - [Nougat](https://facebookresearch.github.io/nougat/)
+- [NVIDIA Nemotron Parse](https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-v1.1)
 - [papercheck](https://github.com/scienceverse/papercheck/) (`R` package)
 - [pdf2md](https://github.com/mrmps/pdf2md)
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
