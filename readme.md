@@ -25,6 +25,7 @@ Tools for extracting information from PDFs. Entries are ordered alphabetically.
 - [evidence.guide](https://evidence.guide/) (focus on meta-analysis)
 - [Granite Docling](https://huggingface.co/ibm-granite/granite-docling-258M)
 - [GROBID](https://github.com/kermitt2/grobid)
+- [LiteParse](https://github.com/run-llama/liteparse)
 - [Marker](https://github.com/datalab-to/marker)
 - [MegaParse](https://github.com/QuivrHQ/MegaParse)
 - [Mistral OCR](https://mistral.ai/news/mistral-ocr)
