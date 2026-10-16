@@ -19,6 +19,7 @@ Information extraction from academic publications (typically in PDF format) is a
 Tools for extracting information from PDFs. Entries are ordered alphabetically.
 
 - [DeepSeek OCR](https://huggingface.co/deepseek-ai/DeepSeek-OCR)
+- [Doc2X](https://doc2x.noedgeai.com/)
 - [docext by Nanonets](https://github.com/NanoNets/docext)
 - [Docling](https://docling-project.github.io/docling/)
 - [DocStrange by Nanonets](https://docstrange.nanonets.com/)
